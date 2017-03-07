@@ -37,6 +37,7 @@ SUBDIRS :=
 
 # Add inputs and outputs from these tool invocations to the build variables 
 C_SRCS +=  \
+../functions.cpp \
 ../Sketch.cpp
 
 
@@ -47,15 +48,19 @@ ASM_SRCS +=
 
 
 OBJS +=  \
+functions.o \
 Sketch.o
 
 OBJS_AS_ARGS +=  \
+functions.o \
 Sketch.o
 
 C_DEPS +=  \
+functions.d \
 Sketch.d
 
 C_DEPS_AS_ARGS +=  \
+functions.d \
 Sketch.d
 
 OUTPUT_FILE_PATH +=Single_digit.elf
@@ -73,6 +78,8 @@ LINKER_SCRIPT_DEP+=
 
 
 # AVR32/GNU C Compiler
+
+
 
 
 
