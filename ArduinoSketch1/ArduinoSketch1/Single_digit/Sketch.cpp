@@ -19,18 +19,68 @@ void setup() {
 }
 
 void loop() {
-	
+	static int i = 0;
+	//Clear LEDs
 	digitalWrite(led_Y,0);
 	digitalWrite(led_R,0);
 	digitalWrite(led_B,0);
-
-	if (digitalRead(button_Y) == 0){
+	// Keep the LED alive
+	if (i == 0){
 		digitalWrite(led_Y,1);
 	}
-	if (digitalRead(button_R) == 0){
+	if (i == 1){
 		digitalWrite(led_R,1);
 	}	
-	if (digitalRead(button_B) == 0){
+	if (i == 2){
 		digitalWrite(led_B,1);
+	}
+	
+	// All combinations for where you and the elevetor are
+	// 3s delay for one floor, 6s delay for two floors
+	if (digitalRead(button_Y) == 0 && i == 2){
+		i = 0;
+		digitalWrite(led_Y,1);
+		for (int jx = 0; jx <100; jx++){
+			if (digitalRead(button_R) == 0){
+				digitalWrite(led_R,1);
+				delay(1000);
+				digitalWrite(led_B,0);
+			}
+			delay(30);
+		}
+		delay(3000);
+	}
+	if (digitalRead(button_Y) == 0 && i == 1){
+		i = 0;
+		digitalWrite(led_Y,1);
+		delay(3000);
+	}
+	if (digitalRead(button_R) == 0 && i == 0){
+		i = 1;
+		digitalWrite(led_R,1);
+		delay(3000);
+	}
+	if (digitalRead(button_R) == 0 && i == 2){
+		i = 1;
+		digitalWrite(led_R,1);
+		delay(3000);
+	}
+	if (digitalRead(button_B) == 0 && i == 0){
+		i = 2;
+		digitalWrite(led_B,1);
+		for (int jx = 0; jx <100; jx++){
+			if (digitalRead(button_R) == 0){
+				digitalWrite(led_R,1);
+				delay(1000);
+				digitalWrite(led_Y,0);
+			}
+			delay(30);
+		}
+		delay(3000);
+	}
+	if (digitalRead(button_B) == 0 && i == 1){
+		i = 2;
+		digitalWrite(led_B,1);
+		delay(3000);
 	}
 }
