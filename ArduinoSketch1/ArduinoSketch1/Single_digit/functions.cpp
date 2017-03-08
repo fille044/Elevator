@@ -17,7 +17,7 @@
 #define button_hiss_0 3
 #define button_hiss_1 4
 #define button_hiss_2 5
-#define foto_0 A0
+#define foto_0 11
 #define foto_1 A1
 #define foto_2 A2
 

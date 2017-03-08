@@ -143,7 +143,7 @@ Disassembly of section .text:
 
 00000118 <_Z11light_it_upv>:
 #define button_hiss_2 5
-#define foto_0 A0
+#define foto_0 11
 #define foto_1 A1
 #define foto_2 A2
 
