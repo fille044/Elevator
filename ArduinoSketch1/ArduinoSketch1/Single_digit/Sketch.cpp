@@ -26,9 +26,9 @@
 #define button_G 0
 #define button_R 1
 #define button_B 2
-#define button_hiss_0 3
-#define button_hiss_1 4
-#define button_hiss_2 5
+#define button_hiss_G 3
+#define button_hiss_R 4
+#define button_hiss_B 5
 #define foto_0 A0
 #define foto_1 A1
 #define foto_2 A2
@@ -40,9 +40,9 @@ void setup() {
 	pinMode(button_G, INPUT);
 	pinMode(button_R, INPUT);
 	pinMode(button_B, INPUT);
-	pinMode(button_hiss_0, INPUT);
-	pinMode(button_hiss_1, INPUT);
-	pinMode(button_hiss_2, INPUT);
+	pinMode(button_hiss_G, INPUT);
+	pinMode(button_hiss_R, INPUT);
+	pinMode(button_hiss_B, INPUT);
 	Serial.begin(9600);
 }
 
