@@ -49,5 +49,5 @@ void setup() {
 void loop() {
 	light_it_up();
 	int value = analogRead(foto_0);
-	Serial.println(value);
+	//Serial.println(value);
 }
