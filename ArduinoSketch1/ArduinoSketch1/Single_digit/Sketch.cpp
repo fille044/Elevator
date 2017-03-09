@@ -1,4 +1,4 @@
-﻿/*
+/*
  * functions.cpp
  *
  * Created: 07/03/2017 12:52:39
@@ -14,25 +14,13 @@
  * An emergency button in the elevator will stop the ride and wait for
  * user input.
  *
- */
+*/
 
 #include <Arduino.h>
 #include <stdlib.h>
 #include "functions.h"
 
-#define led_G 8
-#define led_R 9
-#define led_B 10
-#define button_G 0
-#define button_R 1
-#define button_B 2
-#define button_hiss_G 3
-#define button_hiss_R 4
-#define button_hiss_B 5
-#define foto_0 A0
-#define foto_1 A1
-#define foto_2 A2
-int i=0, j=0;
+
 void setup() {
 	pinMode(led_G,OUTPUT);
 	pinMode(led_R,OUTPUT);
@@ -47,22 +35,24 @@ void setup() {
 }
 
 void loop() {
-	Serial.print(i);
-	Serial.print(" --- ");
-	Serial.println(j);
-	if (((digitalRead(button_G)==0) || digitalRead(button_hiss_G)==0) && (i == 1 || i == 2)){
-	    i = j;
-	    i=0;
-	    changeLED(i, j);
+    static int i = 0;
+	// To indicate what floor the elevetor is, or where it is heading
+	if (i == 0) changeLED(1,0,0);
+	if (i == 1) changeLED(0,1,0);
+	if (i == 2) changeLED(0,0,1);
+	// One of the green buttons pressed
+	if ((digitalRead(button_G)==0) || digitalRead(button_hiss_G)==0){
+		move_to_G(i);
+		i = 0;
+    }
+	// One of the red buttons pressed
+	if ((digitalRead(button_R)==0) || digitalRead(button_hiss_R)==0){
+		move_to_R(i);
+		i = 1;
 	}
-	if (((digitalRead(button_R)==0) || digitalRead(button_hiss_R)==0) && (i == 0 || i == 2)){
-	    i = j;
-	    i=1;
-	    changeLED(i, j);
-	}
-	if (((digitalRead(button_B)==0) || digitalRead(button_hiss_B)==0) && (i == 1 || i == 0)){
-	    i = j;
-	    i=2;
-	    changeLED(i, j);
+	// One of the blue buttons pressed
+	if ((digitalRead(button_B)==0) || digitalRead(button_hiss_B)==0){
+		move_to_B(i);
+		i = 2;
 	}
 }
