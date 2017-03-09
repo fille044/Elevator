@@ -52,7 +52,7 @@ void light_it_up(void){
  		digitalWrite(led_G,1);
 		// 30s delays with the opportunity to change floor
  		for (int jx = 0; jx <100; jx++){
- 			if (digitalRead(button_hiss_R) == 0){
+ 			if ((digitalRead(button_R) == 0 || digitalRead(button_hiss_R) == 0)){
  				digitalWrite(led_R,1);
  				delay(1000);
  				digitalWrite(led_B,0);
@@ -66,12 +66,12 @@ void light_it_up(void){
  		digitalWrite(led_G,1);
  		delay(3000);
 	}
-	if ((digitalRead(button_hiss_R) == 0) && i == 0){
+	if ((digitalRead(button_R) == 0 || digitalRead(button_hiss_R) == 0) && i == 0){
  		i = 1;
  		digitalWrite(led_R,1);
  		delay(3000);
 	}
-	if ((digitalRead(button_hiss_R) == 0) && i == 2){
+	if ((digitalRead(button_R) == 0 || digitalRead(button_hiss_R) == 0) && i == 2){
  		i = 1;
  		digitalWrite(led_R,1);
  		delay(3000);
@@ -81,7 +81,7 @@ void light_it_up(void){
  		digitalWrite(led_B,1);
 		// 30s delays with the opportunity to change floor
  		for (int jx = 0; jx <100; jx++){
- 			if ((digitalRead(button_hiss_R) ==0 )){
+ 			if ((digitalRead(button_R) == 0 || digitalRead(button_hiss_R) ==0 )){
  				digitalWrite(led_R,1);
  				delay(1000);
  				digitalWrite(led_G,0);
