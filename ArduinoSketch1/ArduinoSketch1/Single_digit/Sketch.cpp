@@ -32,7 +32,7 @@
 #define foto_0 A0
 #define foto_1 A1
 #define foto_2 A2
-
+int i=0, j=0;
 void setup() {
 	pinMode(led_G,OUTPUT);
 	pinMode(led_R,OUTPUT);
@@ -47,7 +47,22 @@ void setup() {
 }
 
 void loop() {
-	light_it_up();
-	int value = analogRead(foto_0);
-	//Serial.println(value);
+	Serial.print(i);
+	Serial.print(" --- ");
+	Serial.println(j);
+	if (((digitalRead(button_G)==0) || digitalRead(button_hiss_G)==0) && (i == 1 || i == 2)){
+	    i = j;
+	    i=0;
+	    changeLED(i, j);
+	}
+	if (((digitalRead(button_R)==0) || digitalRead(button_hiss_R)==0) && (i == 0 || i == 2)){
+	    i = j;
+	    i=1;
+	    changeLED(i, j);
+	}
+	if (((digitalRead(button_B)==0) || digitalRead(button_hiss_B)==0) && (i == 1 || i == 0)){
+	    i = j;
+	    i=2;
+	    changeLED(i, j);
+	}
 }

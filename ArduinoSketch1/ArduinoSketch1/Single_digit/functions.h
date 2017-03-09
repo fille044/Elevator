@@ -1,1 +1,1 @@
-void light_it_up(void);
+void changeLED(int i, int j);

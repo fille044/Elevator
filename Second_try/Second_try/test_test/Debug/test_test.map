@@ -1,35 +1,35 @@
 Archive member included to satisfy reference by file (symbol)
 
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
                               Sketch.o (_ZN14HardwareSerial5beginEmh)
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                               Sketch.o (Serial)
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
                               C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                              functions.o (delay)
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              Sketch.o (delay)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                               Sketch.o (pinMode)
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
-C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
@@ -47,126 +47,141 @@ c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/..
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
                               C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
-                              Sketch.o (__do_copy_data)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__do_copy_data)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
                               Sketch.o (__do_clear_bss)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
                               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o) (__tablejump2__)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
-                              C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+                              C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
 
 Discarded input sections
 
  .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
  .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .text          0x00000000        0x0 functions.o
- .data          0x00000000        0x0 functions.o
- .bss           0x00000000        0x0 functions.o
  .text          0x00000000        0x0 Sketch.o
  .data          0x00000000        0x0 Sketch.o
  .bss           0x00000000        0x0 Sketch.o
- .group         0x00000000        0x8 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .text._ZN14HardwareSerial3endEv
-                0x00000000       0x44 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000000       0x44 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .text._ZN14HardwareSerial17availableForWriteEv
-                0x00000000       0x1e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .text.atexit   0x00000000        0x6 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000000       0x1e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .text._Z8setupUSBv
-                0x00000000        0x2 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .group         0x00000000        0x8 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .group         0x00000000        0x8 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x2 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5writeEPKc
+                0x00000000       0x2a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEPK19__FlashStringHelper
-                0x00000000       0x48 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x48 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK6String
-                0x00000000       0x1c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x1c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000        0xe C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printERK9Printable
-                0x00000000       0x14 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x14 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata.str1.1
+                0x00000000        0xf C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x00000000        0x8 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEPK19__FlashStringHelper
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK6String
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEPKc
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEc
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnERK9Printable
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0xa8 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x94 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000        0xe C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x2e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEli
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEmi
-                0x00000000       0x1a C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x1a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEhi
-                0x00000000        0xe C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xe C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEhi
-                0x00000000       0x2e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x2e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEji
-                0x00000000        0xc C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0xc C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEji
-                0x00000000       0x2c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x2c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEmi
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print10printFloatEdh
-                0x00000000      0x1c4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000      0x1c4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print5printEdi
-                0x00000000        0x4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000        0x4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .text._ZN5Print7printlnEdi
-                0x00000000       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000000       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .rodata._ZTV5Print
-                0x00000000        0x8 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .text.millis   0x00000000       0x18 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000000        0x8 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .text.delayMicroseconds
-                0x00000000       0x16 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000       0x16 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_pure_virtual
-                0x00000000        0x4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .text.__cxa_deleted_virtual
-                0x00000000        0x4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_info    0x00000000       0x8e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_abbrev  0x00000000       0x5e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                0x00000000        0x4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x8e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x5e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
  .debug_aranges
-                0x00000000       0x28 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_ranges  0x00000000       0x18 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_line    0x00000000       0xbf C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_str     0x00000000      0x1b4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .comment       0x00000000       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .debug_frame   0x00000000       0x34 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(abi.o)
- .text          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .data          0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
- .bss           0x00000000        0x0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00000000       0x28 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x18 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xbf C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x19a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
@@ -377,11 +392,10 @@ Linker script and memory map
 
 Address of section .data set to 0x800100
 LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
-LOAD functions.o
 LOAD Sketch.o
 START GROUP
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
-LOAD C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a
+LOAD C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a
 END GROUP
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
@@ -489,7 +503,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000      0xcee
+.text           0x00000000      0xb6a
  *(.vectors)
  .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
                 0x00000000                __vector_default
@@ -506,22 +520,22 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem*)
  .progmem.data.digital_pin_to_timer_PGM
-                0x00000068       0x14 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068       0x14 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x00000068                digital_pin_to_timer_PGM
  .progmem.data.digital_pin_to_bit_mask_PGM
-                0x0000007c       0x14 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c       0x14 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x0000007c                digital_pin_to_bit_mask_PGM
  .progmem.data.digital_pin_to_port_PGM
-                0x00000090       0x14 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090       0x14 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x00000090                digital_pin_to_port_PGM
  .progmem.data.port_to_input_PGM
-                0x000000a4        0xa C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4        0xa C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000a4                port_to_input_PGM
  .progmem.data.port_to_output_PGM
-                0x000000ae        0xa C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae        0xa C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000ae                port_to_output_PGM
  .progmem.data.port_to_mode_PGM
-                0x000000b8        0xa C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8        0xa C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
                 0x000000b8                port_to_mode_PGM
                 0x000000c2                . = ALIGN (0x2)
  *(.jumptables)
@@ -530,7 +544,7 @@ END GROUP
  *(.lowtext*)
                 0x000000c2                __ctors_start = .
  *(.ctors)
- .ctors         0x000000c2        0x2 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .ctors         0x000000c2        0x2 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
                 0x000000c4                __ctors_end = .
                 0x000000c4                __dtors_start = .
  *(.dtors)
@@ -594,112 +608,100 @@ END GROUP
                 0x00000114                __vector_20
                 0x00000118                . = ALIGN (0x2)
  *(.text.*)
- .text._Z9changeLEDii
-                0x00000118      0x14c functions.o
-                0x00000118                _Z9changeLEDii
- .text.setup    0x00000264       0x5a Sketch.o
-                0x00000264                setup
- .text.loop     0x000002be       0xec Sketch.o
-                0x000002be                loop
+ .text.setup    0x00000118       0x5a Sketch.o
+                0x00000118                setup
+ .text._Z9changeLEDiii
+                0x00000172       0x32 Sketch.o
+                0x00000172                _Z9changeLEDiii
+ .text._Z8motorLEDii
+                0x000001a4       0x16 Sketch.o
+                0x000001a4                _Z8motorLEDii
+ .text._Z9move_to_Ri
+                0x000001ba       0x56 Sketch.o
+                0x000001ba                _Z9move_to_Ri
+ .text._Z9move_to_Gi
+                0x00000210       0x8e Sketch.o
+                0x00000210                _Z9move_to_Gi
+ .text._Z9move_to_Bi
+                0x0000029e       0x8c Sketch.o
+                0x0000029e                _Z9move_to_Bi
+ .text.loop     0x0000032a       0xb8 Sketch.o
+                0x0000032a                loop
  .text._ZN14HardwareSerial9availableEv
-                0x000003aa       0x18 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000003aa                _ZN14HardwareSerial9availableEv
+                0x000003e2       0x18 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000003e2                _ZN14HardwareSerial9availableEv
  .text._ZN14HardwareSerial4peekEv
-                0x000003c2       0x1c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000003c2                _ZN14HardwareSerial4peekEv
+                0x000003fa       0x1c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000003fa                _ZN14HardwareSerial4peekEv
  .text._ZN14HardwareSerial4readEv
-                0x000003de       0x28 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000003de                _ZN14HardwareSerial4readEv
+                0x00000416       0x28 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000416                _ZN14HardwareSerial4readEv
  .text._Z14serialEventRunv
-                0x00000406       0x1c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000406                _Z14serialEventRunv
+                0x0000043e       0x1c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000043e                _Z14serialEventRunv
  .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
-                0x00000422       0x42 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000422                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x0000045a       0x42 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000045a                _ZN14HardwareSerial17_tx_udr_empty_irqEv
  .text._ZN14HardwareSerial5flushEv
-                0x00000464       0x44 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000464                _ZN14HardwareSerial5flushEv
+                0x0000049c       0x44 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000049c                _ZN14HardwareSerial5flushEv
  .text._ZN14HardwareSerial5writeEh
-                0x000004a8       0x8e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x000004a8                _ZN14HardwareSerial5writeEh
+                0x000004e0       0x8e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000004e0                _ZN14HardwareSerial5writeEh
  .text._ZN14HardwareSerial5beginEmh
-                0x00000536       0xca C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00000536                _ZN14HardwareSerial5beginEmh
+                0x0000056e       0xca C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000056e                _ZN14HardwareSerial5beginEmh
  .text.__vector_18
-                0x00000600       0x64 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x00000600                __vector_18
+                0x00000638       0x64 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000638                __vector_18
  .text.__vector_19
-                0x00000664       0x4c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x00000664                __vector_19
+                0x0000069c       0x4c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000069c                __vector_19
  .text._Z17Serial0_availablev
-                0x000006b0       0x14 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x000006b0                _Z17Serial0_availablev
+                0x000006e8       0x14 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000006e8                _Z17Serial0_availablev
  .text.startup._GLOBAL__sub_I___vector_18
-                0x000006c4       0x5a C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000006fc       0x5a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .text.initVariant
-                0x0000071e        0x2 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x0000071e                initVariant
+                0x00000756        0x2 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000756                initVariant
  .text.startup.main
-                0x00000720       0x1e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                0x00000720                main
+                0x00000758       0x1e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000758                main
  .text._ZN5Print5writeEPKhj
-                0x0000073e       0x56 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x0000073e                _ZN5Print5writeEPKhj
- .text._ZN5Print5writeEPKc
-                0x00000794       0x2a C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00000794                _ZN5Print5writeEPKc
- .text._ZN5Print5printEPKc
-                0x000007be        0x4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000007be                _ZN5Print5printEPKc
- .text._ZN5Print5printEc
-                0x000007c2        0xe C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000007c2                _ZN5Print5printEc
- .text._ZN5Print7printlnEv
-                0x000007d0        0x8 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000007d0                _ZN5Print7printlnEv
- .text._ZN5Print11printNumberEmh
-                0x000007d8       0xa8 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x000007d8                _ZN5Print11printNumberEmh
- .text._ZN5Print5printEli
-                0x00000880       0x94 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00000880                _ZN5Print5printEli
- .text._ZN5Print5printEii
-                0x00000914        0xe C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00000914                _ZN5Print5printEii
- .text._ZN5Print7printlnEii
-                0x00000922       0x2e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                0x00000922                _ZN5Print7printlnEii
+                0x00000776       0x56 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000776                _ZN5Print5writeEPKhj
  .text.__vector_16
-                0x00000950       0x94 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00000950                __vector_16
- .text.micros   0x000009e4       0x4a C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x000009e4                micros
- .text.delay    0x00000a2e       0x78 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00000a2e                delay
- .text.init     0x00000aa6       0x76 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x00000aa6                init
+                0x000007cc       0x94 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000007cc                __vector_16
+ .text.micros   0x00000860       0x4a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000860                micros
+ .text.delay    0x000008aa       0x78 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000008aa                delay
+ .text.init     0x00000922       0x76 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000922                init
  .text.turnOffPWM
-                0x00000b1c       0x52 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .text.pinMode  0x00000b6e       0x78 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00000b6e                pinMode
+                0x00000998       0x52 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000009ea       0x78 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000009ea                pinMode
  .text.digitalWrite
-                0x00000be6       0x60 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00000be6                digitalWrite
+                0x00000a62       0x60 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000a62                digitalWrite
  .text.digitalRead
-                0x00000c46       0x52 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                0x00000c46                digitalRead
- .text.__empty  0x00000c98        0x2 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                0x00000c98                yield
+                0x00000ac2       0x52 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000ac2                digitalRead
+ .text.__empty  0x00000b14        0x2 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00000b14                yield
  .text.libgcc.div
-                0x00000c9a       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
-                0x00000c9a                __udivmodsi4
- .text.libgcc   0x00000cde        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
-                0x00000cde                __tablejump2__
-                0x00000cea                . = ALIGN (0x2)
+                0x00000b16       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000b16                __udivmodsi4
+ .text.libgcc   0x00000b5a        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x00000b5a                __tablejump2__
+                0x00000b66                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00000cea        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
-                0x00000cea                _exit
-                0x00000cea                exit
+ .fini9         0x00000b66        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00000b66                _exit
+                0x00000b66                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -718,57 +720,50 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00000cea        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .fini0         0x00000b66        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x00000cee                _etext = .
+                0x00000b6a                _etext = .
 
-.data           0x00800100       0x26 load address 0x00000cee
+.data           0x00800100       0x10 load address 0x00000b6a
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
  *(.data*)
  *(.rodata)
  *(.rodata*)
- .rodata.str1.1
-                0x00800100        0x6 Sketch.o
  .rodata._ZTV14HardwareSerial
-                0x00800106       0x10 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                0x00800106                _ZTV14HardwareSerial
- .rodata.str1.1
-                0x00800116        0xf C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00800100       0x10 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00800100                _ZTV14HardwareSerial
  *(.gnu.linkonce.d*)
-                0x00800126                . = ALIGN (0x2)
- *fill*         0x00800125        0x1 
-                0x00800126                _edata = .
-                0x00800126                PROVIDE (__data_end, .)
+                0x00800110                . = ALIGN (0x2)
+                0x00800110                _edata = .
+                0x00800110                PROVIDE (__data_end, .)
 
-.bss            0x00800126       0xaa
-                0x00800126                PROVIDE (__bss_start, .)
+.bss            0x00800110       0xa8
+                0x00800110                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
- .bss.j         0x00800126        0x2 Sketch.o
-                0x00800126                j
- .bss.i         0x00800128        0x2 Sketch.o
-                0x00800128                i
- .bss.Serial    0x0080012a       0x9d C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                0x0080012a                Serial
+ .bss._ZZ4loopE1i
+                0x00800110        0x2 Sketch.o
+ .bss.Serial    0x00800112       0x9d C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00800112                Serial
  .bss.timer0_fract
-                0x008001c7        0x1 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008001af        0x1 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .bss.timer0_millis
-                0x008001c8        0x4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008001c8                timer0_millis
+                0x008001b0        0x4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008001b0                timer0_millis
  .bss.timer0_overflow_count
-                0x008001cc        0x4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                0x008001cc                timer0_overflow_count
+                0x008001b4        0x4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008001b4                timer0_overflow_count
  *(COMMON)
-                0x008001d0                PROVIDE (__bss_end, .)
-                0x00000cee                __data_load_start = LOADADDR (.data)
-                0x00000d14                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x008001b8                PROVIDE (__bss_end, .)
+                0x00000b6a                __data_load_start = LOADADDR (.data)
+                0x00000b7a                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x008001d0        0x0
+.noinit         0x008001b8        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x008001d0                _end = .
+                0x008001b8                _end = .
                 [!provide]                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
@@ -810,16 +805,15 @@ END GROUP
 
 .comment        0x00000000       0x30
  *(.comment)
- .comment       0x00000000       0x30 functions.o
+ .comment       0x00000000       0x30 Sketch.o
                                  0x31 (size before relaxing)
- .comment       0x00000030       0x31 Sketch.o
- .comment       0x00000030       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .comment       0x00000030       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .comment       0x00000030       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .comment       0x00000030       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .comment       0x00000030       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .comment       0x00000030       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .comment       0x00000030       0x31 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .note.gnu.avr.deviceinfo
                 0x00000000       0x40
@@ -841,111 +835,103 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000      0x2b0
+.debug_aranges  0x00000000      0x2b8
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x20 functions.o
+                0x00000000       0x50 Sketch.o
  .debug_aranges
-                0x00000020       0x28 Sketch.o
+                0x00000050       0x68 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
  .debug_aranges
-                0x00000048       0x68 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000000b8       0x38 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
  .debug_aranges
-                0x000000b0       0x38 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000f0       0x38 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
  .debug_aranges
-                0x000000e8       0x38 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000128       0xf0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
  .debug_aranges
-                0x00000120       0xf0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000218       0x48 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
  .debug_aranges
-                0x00000210       0x48 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000260       0x38 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
  .debug_aranges
-                0x00000258       0x38 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_aranges
-                0x00000290       0x20 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00000298       0x20 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x7d32
+.debug_info     0x00000000     0x7d16
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_info    0x000005f4      0x42e functions.o
- .debug_info    0x00000a22      0x56a Sketch.o
- .debug_info    0x00000f8c     0x1e51 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_info    0x00002ddd     0x1a4a C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_info    0x00004827      0x231 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_info    0x00004a58     0x29db C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_info    0x00007433      0x2c8 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_info    0x000076fb      0x5f9 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_info    0x00007cf4       0x3e C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x000005f4      0x97c Sketch.o
+ .debug_info    0x00000f70     0x1e51 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00002dc1     0x1a4a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x0000480b      0x231 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00004a3c     0x29db C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x00007417      0x2c8 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x000076df      0x5f9 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00007cd8       0x3e C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_abbrev   0x00000000     0x1965
+.debug_abbrev   0x00000000     0x18a2
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_abbrev  0x000005a2      0x144 functions.o
- .debug_abbrev  0x000006e6      0x1fc Sketch.o
- .debug_abbrev  0x000008e2      0x478 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_abbrev  0x00000d5a      0x3b1 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_abbrev  0x0000110b      0x109 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_abbrev  0x00001214      0x487 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_abbrev  0x0000169b      0x145 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_abbrev  0x000017e0      0x15b C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_abbrev  0x0000193b       0x2a C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x000005a2      0x27d Sketch.o
+ .debug_abbrev  0x0000081f      0x478 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000c97      0x3b1 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001048      0x109 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00001151      0x487 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x000015d8      0x145 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x0000171d      0x15b C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00001878       0x2a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_line     0x00000000     0x1949
+.debug_line     0x00000000     0x1870
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_line    0x00000133      0x23c functions.o
- .debug_line    0x0000036f      0x280 Sketch.o
- .debug_line    0x000005ef      0x426 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_line    0x00000a15      0x257 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_line    0x00000c6c      0x175 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_line    0x00000de1      0x63c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_line    0x0000141d      0x299 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_line    0x000016b6      0x252 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_line    0x00001908       0x41 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00000133      0x3e3 Sketch.o
+ .debug_line    0x00000516      0x426 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x0000093c      0x257 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00000b93      0x175 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00000d08      0x63c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00001344      0x299 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x000015dd      0x252 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x0000182f       0x41 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_frame    0x00000000      0x788
+.debug_frame    0x00000000      0x7ec
  *(.debug_frame)
- .debug_frame   0x00000000       0x30 functions.o
- .debug_frame   0x00000030       0x34 Sketch.o
- .debug_frame   0x00000064      0x110 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_frame   0x00000174       0xc0 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_frame   0x00000234       0x54 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_frame   0x00000288      0x39c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_frame   0x00000624       0xc4 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_frame   0x000006e8       0x7c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_frame   0x00000764       0x24 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00000000       0xc8 Sketch.o
+ .debug_frame   0x000000c8      0x110 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x000001d8       0xc0 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000298       0x54 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x000002ec      0x39c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000688       0xc4 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x0000074c       0x7c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x000007c8       0x24 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
-.debug_str      0x00000000     0x1c28
+.debug_str      0x00000000     0x1c60
  *(.debug_str)
  .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
- .debug_str     0x00000208      0x242 functions.o
-                                0x287 (size before relaxing)
- .debug_str     0x0000044a       0xe7 Sketch.o
-                                0x355 (size before relaxing)
- .debug_str     0x00000531     0x1080 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
-                               0x1358 (size before relaxing)
- .debug_str     0x000015b1       0x8b C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
-                               0x1158 (size before relaxing)
- .debug_str     0x0000163c       0x43 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
-                                0x2c3 (size before relaxing)
- .debug_str     0x0000167f      0x378 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
-                                0xfb4 (size before relaxing)
- .debug_str     0x000019f7      0x15a C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
-                                0x24d (size before relaxing)
- .debug_str     0x00001b51       0xbb C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
-                                0x2b2 (size before relaxing)
- .debug_str     0x00001c0c       0x1c C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
-                                0x142 (size before relaxing)
+ .debug_str     0x00000208      0x331 Sketch.o
+                                0x383 (size before relaxing)
+ .debug_str     0x00000539     0x1066 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x133e (size before relaxing)
+ .debug_str     0x0000159f       0x8b C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x113e (size before relaxing)
+ .debug_str     0x0000162a       0x43 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2a9 (size before relaxing)
+ .debug_str     0x0000166d      0x3c2 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                                0xf9a (size before relaxing)
+ .debug_str     0x00001a2f      0x15a C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x233 (size before relaxing)
+ .debug_str     0x00001b89       0xbb C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x298 (size before relaxing)
+ .debug_str     0x00001c44       0x1c C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x128 (size before relaxing)
 
-.debug_loc      0x00000000     0x2f6d
+.debug_loc      0x00000000     0x306c
  *(.debug_loc)
- .debug_loc     0x00000000      0x233 functions.o
- .debug_loc     0x00000233      0x497 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_loc     0x000006ca      0x161 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_loc     0x0000082b     0x1ef6 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_loc     0x00002721      0x269 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_loc     0x0000298a      0x5e3 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00000000      0x332 Sketch.o
+ .debug_loc     0x00000332      0x497 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x000007c9      0x161 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x0000092a     0x1ef6 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00002820      0x269 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00002a89      0x5e3 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -965,19 +951,18 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000      0x2b0
+.debug_ranges   0x00000000      0x2c8
  *(.debug_ranges)
- .debug_ranges  0x00000000       0x40 functions.o
- .debug_ranges  0x00000040       0x18 Sketch.o
- .debug_ranges  0x00000058       0x70 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
- .debug_ranges  0x000000c8       0x28 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
- .debug_ranges  0x000000f0       0x28 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(main.o)
- .debug_ranges  0x00000118      0x128 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(Print.o)
- .debug_ranges  0x00000240       0x38 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
- .debug_ranges  0x00000278       0x28 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
- .debug_ranges  0x000002a0       0x10 C:\Users\fille\Elevator\ArduinoSketch1\ArduinoSketch1\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000000       0x70 Sketch.o
+ .debug_ranges  0x00000070       0x70 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x000000e0       0x28 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x00000108       0x28 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x00000130      0x128 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000258       0x38 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000290       0x28 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x000002b8       0x10 C:\Users\fille\Elevator\Second_try\Second_try\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
 
 .debug_macro
  *(.debug_macro)
-OUTPUT(Single_digit.elf elf32-avr)
+OUTPUT(test_test.elf elf32-avr)
 LOAD linker stubs
